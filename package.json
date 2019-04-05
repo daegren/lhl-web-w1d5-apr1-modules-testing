@@ -1,0 +1,18 @@
+{
+  "name": "w1d5-lecture",
+  "version": "1.0.0",
+  "description": "In class example for April 1st cohort",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "David Mills",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
